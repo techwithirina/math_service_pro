@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+click
+python-multipart
+python-dotenv
